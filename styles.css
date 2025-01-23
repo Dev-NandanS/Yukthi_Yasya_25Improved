@@ -5,6 +5,15 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Changeling Neo Bold';
+    src: url('Assets/fonts/Changeling Neo Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Changeling Neo Regular';
+    src: url('Assets/fonts/Changeling Neo Regular.otf') format('opentype');
+}
+
 body {
     overflow-x: hidden;
 }
